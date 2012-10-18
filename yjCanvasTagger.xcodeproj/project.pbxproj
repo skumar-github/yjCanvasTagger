@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		4370B48616308DB400D822C0 /* yjCanvasTagger.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = yjCanvasTagger.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		4370B47916308C1D00D822C0 = {
 			isa = PBXGroup;
 			children = (
+				4370B48616308DB400D822C0 /* yjCanvasTagger.py */,
 			);
 			sourceTree = "<group>";
 		};
